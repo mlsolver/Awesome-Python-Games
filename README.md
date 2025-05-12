@@ -114,7 +114,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/michael-landon-t0209/">Micha
  
 - <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/mlsolver">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
 
-- <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/in/michael-landon-t0209">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="mailto:michaellandon.t0209@gmail.com">email</a>.
+- <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/in/michael-landon-t0209">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="michaellandon.t0209@gmail.com">email</a>.
 
 <hr>
 
@@ -122,7 +122,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/michael-landon-t0209/">Micha
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-landon-t0209"><img title="Follow Michael Landon on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mlsolver"><img title="Follow Michael Landon on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:michaellandon.t0209@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="michaellandon.t0209@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
