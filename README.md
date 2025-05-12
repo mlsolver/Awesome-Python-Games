@@ -72,7 +72,7 @@ These games are built in Python 2. They use a specific library to draw the canva
 <hr>
 
 ## Author
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-mlsolver-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/mlsolver)
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-mlsolver-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/michael-landon-t0209)
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-mlsolver-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/mlsolver)
 
@@ -101,7 +101,7 @@ Copyright (c) 2018-present, mlsolver
 <hr>
 
 <h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
-Hey there, I'm <a href="https://www.linkedin.com/in/mlsolver/">Michael Landon</a> 👨🏻‍💻
+Hey there, I'm <a href="https://www.linkedin.com/in/michael-landon-t0209/">Michael Landon</a> 👨🏻‍💻
 </h1>
 
 
@@ -110,17 +110,17 @@ Hey there, I'm <a href="https://www.linkedin.com/in/mlsolver/">Michael Landon</a
 
 <hr>
 
-- <b>🛠️ Product Builder:</b> Agile Product Manager with 5+ years of hands-on experience delivering SaaS solutions across sales, recruiting, AI, social media, and public sector domains. Background in Computer Science, with a proven track record of scaling products from inception to $XXM+ ARR, launching 3 top-ranking tools on Product Hunt, and developing solutions adopted by 250+ B2B clients in 40+ countries.  
+- <b>🛠️ Product Builder:</b> Innovative and results-oriented full-stack software engineer with 10+ years of experience designing, developing, and scaling modern web applications and SaaS platforms. Proven expertise in microservices, event-driven architecture, and AI/ML integrations. Effective collaborator across cross-functional teams with a strong focus on performance, scalability, and business outcomes.  
  
 - <b>🌟 Open Source Advocate:</b> Passionate about making technology accessible, I’ve developed and open-sourced several software projects for web, mobile, desktop, and AI on my <a href="https://github.com/mlsolver">GitHub profile</a>. These projects have been used by thousands of learners worldwide to enhance their skills and knowledge.
 
-- <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/in/mlsolver">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="mailto:haris.muneer5@gmail.com">email</a>.
+- <b>📫 How to Reach Me:</b> To learn more about my skills and work, visit my <a href="https://www.linkedin.com/in/michael-landon-t0209">LinkedIn profile</a>. For collaboration or inquiries, feel free to reach out via <a href="michaellandon.t0209@gmail.com">email</a>.
 
 <hr>
 
 <h2 align="left">🤝 Follow my journey</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mlsolver"><img title="Follow Michael Landon on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/michael-landon-t0209"><img title="Follow Michael Landon on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/mlsolver"><img title="Follow Michael Landon on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@haris_muneer?sub_confirmation=1"><img title="Subscribe on YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
   <a href="mailto:haris.muneer5@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
